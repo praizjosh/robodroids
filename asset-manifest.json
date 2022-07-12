@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c093cfc4.css",
+    "main.js": "/static/js/main.a3bf17e7.js",
+    "static/js/787.08a570ce.chunk.js": "/static/js/787.08a570ce.chunk.js",
+    "static/media/Future Techno.ttf": "/static/media/Future Techno.f40e4eaa791c7af9151f.ttf",
+    "index.html": "/index.html",
+    "main.c093cfc4.css.map": "/static/css/main.c093cfc4.css.map",
+    "main.a3bf17e7.js.map": "/static/js/main.a3bf17e7.js.map",
+    "787.08a570ce.chunk.js.map": "/static/js/787.08a570ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c093cfc4.css",
+    "static/js/main.a3bf17e7.js"
+  ]
+}
